@@ -22,7 +22,7 @@ npm run build
 ```sh
 npm link
 ```
-4. **Ejecuta el Proyecto 🚀**
+5. **Ejecuta el Proyecto 🚀**
 ```sh
 build <rows> <bricks>
 ```
